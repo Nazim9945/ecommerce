@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+# This site is live and Running over ['https://ecommerce-tau-jet-85.vercel.app/'] URL
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
